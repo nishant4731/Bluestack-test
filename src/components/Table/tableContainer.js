@@ -28,7 +28,7 @@ function TableContainer(props) {
 
     }
     return(
-        <div>
+        <div className="table-wrapper-cont">
             {
                 tabledata && tabledata.tableRow && tabledata.tableRow.length ? <table>
                 <thead>

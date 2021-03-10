@@ -5,6 +5,7 @@ table th {
 
 table td {
     text-align: left;
+    padding: 10px 5px;
 }
 
 table thead {
@@ -13,4 +14,9 @@ table thead {
 table {
     width: 800px;
     border-collapse: collapse;
+    box-shadow: 0 0 12px #ccc;
+}
+
+table tbody tr {
+    border-bottom: 1px solid gray;
 }

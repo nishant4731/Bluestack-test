@@ -10,16 +10,19 @@
 .nav-tab {
   list-style-type: none;
   padding: 0;
-  width: 50%;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid gray;
+  text-align: left;
 }
 
 .nav-tab li {
-  width: 33.33%;
+  width: 20%;
   display: inline-block;
   vertical-align: middle;
   font-size: 18px;
   color: rgba(0,0,0,.5);
-  padding: 0 10px;
+  padding: 10px;
   line-height: 28px;
   box-sizing: border-box;
   text-align: left;
@@ -65,4 +68,28 @@
 
 .image-wrap {
   text-align: left;
+}
+
+.table-wrapper-cont {
+  overflow-x: auto;
+}
+
+
+@media only screen and (min-width: 800px) and (max-width: 1200px){
+
+.table-wrap {
+  padding: 0 20px;
+}
+.header-wrapper {
+  padding: 0 20px;
+}
+.nav-tab li {
+  width: 33.33%;
+}
+}
+
+@media only screen and (max-width: 799px){
+  .nav-tab li {
+    width: 100%;
+  }
 }
