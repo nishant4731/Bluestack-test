@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bluestack-test/static/css/main.7cd37d44.chunk.css",
+    "main.js": "/Bluestack-test/static/js/main.edac239a.chunk.js",
+    "main.js.map": "/Bluestack-test/static/js/main.edac239a.chunk.js.map",
+    "runtime-main.js": "/Bluestack-test/static/js/runtime-main.9003a763.js",
+    "runtime-main.js.map": "/Bluestack-test/static/js/runtime-main.9003a763.js.map",
+    "static/css/2.4c78f058.chunk.css": "/Bluestack-test/static/css/2.4c78f058.chunk.css",
+    "static/js/2.4492fdee.chunk.js": "/Bluestack-test/static/js/2.4492fdee.chunk.js",
+    "static/js/2.4492fdee.chunk.js.map": "/Bluestack-test/static/js/2.4492fdee.chunk.js.map",
+    "static/js/3.95f37d83.chunk.js": "/Bluestack-test/static/js/3.95f37d83.chunk.js",
+    "static/js/3.95f37d83.chunk.js.map": "/Bluestack-test/static/js/3.95f37d83.chunk.js.map",
+    "index.html": "/Bluestack-test/index.html",
+    "static/css/2.4c78f058.chunk.css.map": "/Bluestack-test/static/css/2.4c78f058.chunk.css.map",
+    "static/css/main.7cd37d44.chunk.css.map": "/Bluestack-test/static/css/main.7cd37d44.chunk.css.map",
+    "static/js/2.4492fdee.chunk.js.LICENSE.txt": "/Bluestack-test/static/js/2.4492fdee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9003a763.js",
+    "static/css/2.4c78f058.chunk.css",
+    "static/js/2.4492fdee.chunk.js",
+    "static/css/main.7cd37d44.chunk.css",
+    "static/js/main.edac239a.chunk.js"
+  ]
+}
