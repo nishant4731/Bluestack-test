@@ -1,0 +1,17 @@
+.header-wrapper {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header-container {
+    background-color: #1f2640;
+}
+
+.header-wrapper img {
+    height: 38px;
+    width: 134px;
+}

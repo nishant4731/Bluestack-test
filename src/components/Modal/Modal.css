@@ -1,0 +1,20 @@
+.modal-wrap {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(33, 33, 33, 0.5);
+}
+
+.inner-wrap {
+    position: absolute;
+    max-width: 450px;
+    width: 92%;
+    margin: 0 auto;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 20px;
+}
